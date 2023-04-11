@@ -1,0 +1,10 @@
+
+IMPORTANT! ONLY USE THIS APP IF YOU KNOW WHAT YOU ARE DOING!! ANY MISUNDERSTANDING LIES WITH YOU!
+
+
+To run this app you must have Python3 installed. to install Python, 
+go to python.org and select the "downloads" tab. Then click on the latest release for the Python software. The installer will download to your computer. Open the .pkg file in your downloads, go through the installation steps, and wait for it to install to your computer.
+
+Open up a blank Terminal window and type "cd" and hit the space bar, then DRAG AND DROP the "Resource Center App" folder into the Terminal window then hit enter. Now just type "python3 center.py"
+
+The app should open up! Now you can use the app.
