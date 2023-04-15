@@ -6,5 +6,5 @@ Press the space bar, then drag-and-drop the Resource Center App folder INSIDE of
 If you did it correctly, you should notice the directory name changes in Terminal from the name of your home folder to the name of the Resource Center App folder. Example: "alwaysappleftd@AAFTD-MBP ~ % cd /Users/alwaysappleftd/Desktop/ReCenter/ReCenter\ App/Resource\ Center\ App 
 alwaysappleftd@AAFTD-MBP Resource Center App % 
 It should look somewhat like above, exept obviously it wouldn't say "alwaysappleftd" becase it would be from your computer not mine.
-Now, finally type "python3 app.py" to run it. Remember to leave out the quotation marks and spell it with the exact same lower case like here.
+Now, finally type "python3 center.py" to run it. Remember to leave out the quotation marks and spell it with the exact same lower case like here.
 Hope it works well for you!
